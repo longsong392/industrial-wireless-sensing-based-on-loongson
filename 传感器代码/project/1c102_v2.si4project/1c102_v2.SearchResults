@@ -1,0 +1,11 @@
+---- WDG_DogFeed Matches (10 in 7 files) ----
+watch_dog in 1c102_cmd.c (D:\project\1c1xx\1c102_v2\example\ls1c102) :         WDG_DogFeed();
+copy in 1c102_cmd.c (D:\project\1c1xx\1c102_v2\example\ls1c102) :         WDG_DogFeed();
+TIMER_WAKE_INT in 1c102_Interrupt.c (D:\project\1c1xx\1c102_v2\user\ls1c102) :     WDG_DogFeed();
+watch_dog in 1c103_cmd.c (D:\project\1c1xx\1c102_v2\example\ls1c103) : 	WDG_DogFeed();
+copy_to_flash in 1c103_cmd.c (D:\project\1c1xx\1c102_v2\example\ls1c103) : 	WDG_DogFeed();
+pmu_handler in 1c103_Interrupt.c (D:\project\1c1xx\1c102_v2\user\ls1c103) :         WDG_DogFeed();
+bsp_init in init.c (D:\project\1c1xx\1c102_v2\system) :     WDG_DogFeed();
+bsp_init in init.c (D:\project\1c1xx\1c102_v2\system) :         WDG_DogFeed();
+ls1x_wdg.c (D:\project\1c1xx\1c102_v2\drivers\public) line 11 : void WDG_DogFeed(void)
+ls1x_wdg.h (D:\project\1c1xx\1c102_v2\drivers\public) line 7 : void WDG_DogFeed(void);
